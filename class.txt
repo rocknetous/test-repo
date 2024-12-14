@@ -1,0 +1,6 @@
+Bleu
+orange
+jaune
+vert
+rouge
+paix
